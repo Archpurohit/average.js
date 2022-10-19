@@ -1,0 +1,2 @@
+# average.js
+Debugging code 
